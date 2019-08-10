@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Title"
-date:   2019-08-10 05:33:21 +0100
+date:   "2019-08-10"
 categories: jekyll
 author: Joseahfer
 ---
