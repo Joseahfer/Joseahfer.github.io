@@ -1,0 +1,404 @@
+{
+	//------------------------Main Menu------------------------//
+	//start
+	"press_start": "Pulsa 'Enter' para comenzar",
+
+	//main menu
+	"play_button": "Jugar",
+	"options_button": "Opciones",
+	"credits_button": "Créditos",
+	"back_button": "Volver",
+	"exit_button": "Salir",
+
+	//options
+	"audio_button": "Audio",
+	"video_button": "Vídeo",
+	"controls_button": "Controles",
+
+	//audio
+	"music_panel": "Música",
+	"sounds_panel": "Sonido",
+
+	//video
+	"language_button": "Idioma",
+	"screen_button": "Pantalla",
+
+	//language
+	"language_panel": "Idioma",
+	"language_text": "Español",
+
+	//screen
+	"screen_panel": "Resolución de pantalla",
+	"resize_button": "Reajustar",
+	"fullscreen_button": "P. completa",
+
+	//play
+	"save_button": "Archivo",
+	"delete_button": "Borrar",
+
+	//pause
+	"resume_button": "Reanudar",
+	"level_menu_button": "Niveles",
+
+	//credits
+	"credit_programmer": "Programación",
+	"credit_artist": "Arte",
+	"credit_gamedesigner": "Diseño",
+	"credit_musiccomposer": "Música",
+	"credit_sounddesigner": "Sonido",
+	"credit_specialthanks": "Agradecimientos especiales",
+	"credit_helpers": "Colaboradores",
+
+	//------------------------Controls------------------------//
+	//any
+	"controls_guide_enter": "Enter",
+	"controls_guide_back": "Volver",
+	"controls_guide_select": "Seleccionar",
+	"controls_guide_equip": "Equipar",
+
+	//pc
+	"controls_panel": "Controles",
+	"controls_keyboard": "Teclado",
+	"controls_gamepad": "Mando",
+	"controls_movement": "Moverse",
+	"controls_attack": "Apuntar/Atacar",
+	"controls_interact": "Interactuar",
+
+	"controls_switch_gamepad": "Para cambiar a mando pulsa START",
+	"controls_switch_keyboard": "Para cambiar a teclado pulsa ENTER",
+
+	//switch
+	"controls_switch": "Mando",
+
+	//mobile
+	"controls_mobile": "Controles",
+
+	//------------------------Level Menu------------------------//
+	"world_overworld": "Prado",
+	"world_iceworld": "Glaciar",
+	"world_desert": "Desierto",
+	"world_underground": "Subsuelo",
+	"world_underworld": "Inframundo",
+	"locked_title": "Bloqueado",
+
+	"shop_button": "Tienda",
+
+	//------------------------Level Tutorial------------------------//
+	//dialogue skip
+	//pc or switch
+	"dialogue_press": "Pulsa",
+	"dialogue_continue": "para continuar",
+
+	//mobile
+	"dialogue_mobile_press": "Toca ",
+	"dialogue_mobile_continue": "para continuar",
+
+	//dialogue1
+	"dialogue_1_sentence_1": "Lalalalá... dónde estarán mis zanahorias...",
+	"dialogue_1_sentence_2": "¡Anda! ¡Que ya estás aquí! Estaba ordenando mis cosas.",
+	"dialogue_1_sentence_3": "Bueno, no pasa nada.",
+	"dialogue_1_sentence_4": "¡Hola! Me llamo Morty, y estoy aquí para ayudarte.",
+	"dialogue_1_sentence_5": "La última vez que hice un tutorial la gente me ignoró...",
+	"dialogue_1_sentence_6": "¡Pero no dejaré que vuelva a ocurrir!",
+	"dialogue_1_sentence_7": "En fin, ¡empecemos!",
+
+	//dialogue2
+	"dialogue_2_sentence_1": "¿Ves ese gran diamante? Está lleno de energía.",
+	"dialogue_2_sentence_2": "Mantiene el equilibrio de este mundo.",
+	"dialogue_2_sentence_3": "¡Pero todos los monstruos quieren destruirlo!",
+	"dialogue_2_sentence_4": "Tendrás que protegerlo para que podamos vivir en paz y armonía.",
+
+	//dialogue3
+	"dialogue_3_sentence_1": "Los enemigos vendrán en oleadas. Cuando superes una, pasarás a la siguiente.",
+	"dialogue_3_sentence_2": "La mayoría irán directamente a por el diamante, así que atácalos para llamar su atención.",
+	"dialogue_3_sentence_3": "Supera 5 oleadas seguidas y avanzarás al siguiente nivel.",
+
+	//dialogue4
+	"dialogue_4_sentence_1": "También puedes destruir estas cajas, que contendrán pociones u objetos.",
+
+	//dialogue5
+	"dialogue_5_sentence_1": "¡Y es precisamente por lo que te estoy ayudando!",
+	"dialogue_5_sentence_2": "¿Te he dicho que soy comerciante? ¡Sé libre de gastarte todo el dinero en mi tienda!",
+	"dialogue_5_sentence_3": "Así podré comprar zanahorias. Ya sabes, así funciona el capitalismo.",
+	"dialogue_5_sentence_4": "Bueno, pues... ¡eso es todo! ¡Nos vemos en mi tienda!",
+
+	//------------------------Shop Tutorial------------------------//
+	//dialogue6
+	"dialogue_6_sentence_1": "¡Hola de nuevo! Veo que te fue bien.",
+	"dialogue_6_sentence_2": "Te doy la bienvenida a mi tienda, donde podrás gastar tu preciado dinero.",
+
+	//dialogue7
+	"dialogue_7_sentence_1": "Cada vez que superes un nivel, habrá 4 objetos aleatorios que podrás comprar.",
+
+	//dialogue8
+	"dialogue_8_sentence_1": "También puedes ver el Libro de Equipo para ver las estadísticas de los objetos que has comprado anteriormente. Y, claro, también podrás equipártelos.",
+
+	//dialogue9
+	"dialogue_9_sentence_1": "¡Eso es todo! Disfruta de tu aventura.",
+
+	//------------------------Shop Hints------------------------//
+	//dialoguehint1
+	"dialogue_hint_1_sentence_1": "¡Te voy a dar un consejo!",
+	"dialogue_hint_1_sentence_2": "Si no tienes dinero para comprar algo, siempre puedes volver a jugar los niveles anteriores.",
+	"dialogue_hint_1_sentence_3": "Así, la tienda no se actualizará y podrás conseguir más dinero.",
+	"dialogue_hint_1_sentence_4": "¡Y así yo también conseguiría dinero!",
+
+	//dialoguehint2
+	"dialogue_hint_2_sentence_1": "Una curiosidad sobre los conejos:",
+	"dialogue_hint_2_sentence_2": "Seguro que piensas que los conejos son monísimos y todo eso, ¡pero eso es porque no sabes que los conejos se comen su propia caca!",
+	"dialogue_hint_2_sentence_3": "Es un hábito común en nuestra especie que nos ayuda a obtener nutrientes, ya que tenemos un sistema digestivo rápido.",
+	"dialogue_hint_2_sentence_4": "¡Así que no te sorprendas si alguna vez lo ves!",
+
+	//dialoguehint3
+	"dialogue_hint_3_sentence_1": "Una advertencia:",
+	"dialogue_hint_3_sentence_2": "El Libro de Equipo solo te mostrará las cosas que hayas encontrado previamente.",
+	"dialogue_hint_3_sentence_3": "Es bastante útil, pero también tendrás que descubrir los objetos para saber sobre ellos.",
+	"dialogue_hint_3_sentence_4": "¡Así mantienes la diversión mientras exploras el juego!",
+
+	//dialoguehint4
+	"dialogue_hint_4_sentence_1": "Una curiosidad sobre los conejos:",
+	"dialogue_hint_4_sentence_2": "¡Nuestra visión casi cubre los 360 grados!",
+	"dialogue_hint_4_sentence_3": "La gente se sorprende mucho cuando se entera, ¡pero es cierto!",
+	"dialogue_hint_4_sentence_4": "Eso hace que sea difícil acercarse a un conejo, ya que podemos ver lo que viene por detrás o por arriba sin girar la cabeza.",
+	"dialogue_hint_4_sentence_5": "Lo malo es que tenemos un pequeño punto ciego justo delante de nuestras narices.",
+
+	//dialoguehint5
+	"dialogue_hint_5_sentence_1": "¡Te voy a dar un consejo!",
+	"dialogue_hint_5_sentence_2": "Normalmente hay algún objeto oculto en los niveles.",
+	"dialogue_hint_5_sentence_3": "Así que es buena idea que explores un poco el mapa antes de irte.",
+
+	//dialoguehint6
+	"dialogue_hint_6_sentence_1": "¡Te voy a dar un consejo!",
+	"dialogue_hint_6_sentence_2": "Cada enemigo tiene una pequeña probabilidad de soltarte un objeto de su mundo.",
+	"dialogue_hint_6_sentence_3": "Así que si te vuelves loco por conseguir todos los logros, puedes volver a enfrentarte a los enemigos de mundos anteriores.",
+
+	//dialoguehint7
+	"dialogue_hint_7_sentence_1": "Oye, ¿qué sigues haciendo aquí?",
+	"dialogue_hint_7_sentence_2": "¡Ya tienes todos los objetos! Salvo que quieras darme dinero gratis, no tiene sentido que te quedes más.",
+
+	//------------------------Boss Dialogue------------------------//
+	"dialogue_boss_1": "¡MUAJAJA! ¡Mi plan ha sido todo un éxito!",
+	"dialogue_boss_2": "He estado absorbiendo la energía de todos los mundos para hacerme cada vez más fuerte, poseyendo a todos los monstruos que me dieran fuerza...",
+	"dialogue_boss_3": "¡¿Y tú me estabas protegiendo todo el tiempo?!",
+	"dialogue_boss_4": "¡¡MUAJAJA!! ¡Qué bajo has caído!",
+	"dialogue_boss_5": "Y ahora que la primera parte de mi plan se ha completado, prepárate, ¡porque tú también vas a morir!",
+	"dialogue_boss_6": "¡¡JAJAJAJAJA!!",
+
+	"dialogue_boss_7": "¡No! ¡Esto no puede estar pasando! ¡¿Por qué he perdido yo?! Me esforcé tanto para esto...",
+	"dialogue_boss_8": "¡¡NO PUEDO MORIR AHORA!! ¡NO! ¡NOOOOOO!",
+
+	//------------------------Bosses------------------------//
+	"boss_overworld": "Gólem de tierra",
+	"boss_iceworld": "Mago oscuro",
+	"boss_desert": "Pirámide viviente",
+	"boss_underground": "Bob, la gema",
+	"boss_underworld": "Cristal poseído",
+
+	//------------------------Equipments------------------------//
+	//short description
+	"equipment_description_stackable": "*Acumulable*",
+	"equipment_description_notobtained": "*No se ha obtenido*",
+	"equipment_description_alreadyobtained": "*Ya obtenido*",
+
+	"equipment_unknown": "Desconocido",
+
+	//book
+	"regularsword_name": "Espada normal",
+	"regularsword_description": "Daño: 1.5\nProbabilidad de crítico: 15 %\nVelocidad: Normal",
+
+	"shortsword_name": "Espada corta",
+	"shortsword_description": "Daño: 1\nProbabilidad de crítico: 10 %\nVelocidad: Muy rápida",
+
+	"longsword_name": "Espada larga",
+	"longsword_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Lenta",
+
+	"earthsword_name": "Espada terrestre",
+	"earthsword_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Lenta",
+
+	"spear_name": "Lanza",
+	"spear_description": "Daño: 4\nProbabilidad de crítico: 10 %\nVelocidad: Muy rápida",
+
+	"demonfork_name": "Tridente",
+	"demonfork_description": "Daño: 5\nProbabilidad de crítico: 40 %\nVelocidad: Muy rápida\nDisparos triples",
+
+	"icepick_name": "Picahielo",
+	"icepick_description": "Daño: 3\nProbabilidad de crítico: 15 %\nVelocidad: Rápida\nRalentiza a los enemigos",
+
+	"scimitar_name": "Cimitarra",
+	"scimitar_description": "Daño: 5\nProbabilidad de crítico: 30 %\nVelocidad: Normal",
+
+	"bighammer_name": "Gran martillo",
+	"bighammer_description": "Daño: 8\nProbabilidad de crítico: 40 %\nVelocidad: Lenta",
+
+	"rubysword_name": "Espada rubí",
+	"rubysword_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Normal\nEnvenena a los enemigos",
+
+	"topazsword_name": "Espada topaz",
+	"topazsword_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Normal\nDisminuye la defensa de los enemigos",
+
+	"lavasword_name": "Espada lávica",
+	"lavasword_description": "Daño: 6\nProbabilidad de crítico: 15 %\nVelocidad: Rápida\nProbabilidad de hacer explotar a los enemigos",
+
+	"hugesword_name": "Espada enorme",
+	"hugesword_description": "Daño: 12\nProbabilidad de crítico: 60 %\nVelocidad: Muy lenta",
+
+	"snowball_name": "Bola de nieve",
+	"snowball_description": "Daño: 2\nProbabilidad de crítico: 10 %\nVelocidad: Rápida\nUso de maná: 0.5\nRalentiza a los enemigos",
+
+	"magicstaff_name": "Bastón mágico",
+	"magicstaff_description": "Daño: 3\nProbabilidad de crítico: 15 %\nVelocidad: Normal\nUso de maná: 1.5",
+
+	"magicwand_name": "Varita mágica",
+	"magicwand_description": "Daño: 1.5\nProbabilidad de crítico: 10 %\nVelocidad: Rápida\nUso de maná: 1",
+
+	"icescepter_name": "Cetro helado",
+	"icescepter_description": "Daño: 3.5\nProbabilidad de crítico: 25 %\nVelocidad: Normal\nUso de maná: 2\nRalentiza a los enemigos",
+
+	"poisonscepter_name": "Cetro venenoso",
+	"poisonscepter_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Rápida\nUso de maná: 2\nEnvenena a los enemigos",
+
+	"darkmagestaff_name": "Bastón del mago oscuro",
+	"darkmagestaff_description": "Daño: 4\nProbabilidad de crítico: 30 %\nVelocidad: Normal\nUso de maná: 4",
+
+	"anubisstaff_name": "Bastón de Anubis",
+	"anubisstaff_description": "Daño: 2.5\nProbabilidad de crítico: 20 %\nVelocidad: Normal\nUso de maná: 2",
+
+	"sapphirestaff_name": "Bastón zafiro",
+	"sapphirestaff_description": "Daño: 3\nProbabilidad de crítico: 30 %\nVelocidad: Muy rápida\nUso de maná: 2\nRecupera maná de los enemigos muertos",
+
+	"lavastaff_name": "Bastón lávico",
+	"lavastaff_description": "Daño: 5\nProbabilidad de crítico: 40 %\nVelocidad: Muy rápida\nUso de maná: 1.3\nProbabilidad de hacer explotar a los enemigos",
+
+	"demonbook_name": "Libro demoníaco",
+	"demonbook_description": "Daño: 2.5\nProbabilidad de crítico: 30 %\nVelocidad: Increíblemente rápida\nUso de maná: 0.9\nProyectiles guiados cuando los enemigos están cerca",
+
+	"boomerang_name": "Bumerán",
+	"boomerang_description": "Daño: 2\nProbabilidad de crítico: 10 %\nVelocidad: Normal",
+
+	"iceboomerang_name": "Bumerán helado",
+	"iceboomerang_description": "Daño: 4\nProbabilidad de crítico: 20 %\nVelocidad: Rápida\nRalentiza a los enemigos",
+
+	"desertboomerang_name": "Bumerán desértico",
+	"desertboomerang_description": "Daño: 3\nProbabilidad de crítico: 15 %\nVelocidad: Rápida",
+
+	"undergroundboomerang_name": "Bumerán subterráneo",
+	"undergroundboomerang_description": "Daño: 4\nProbabilidad de crítico: 25 %\nVelocidad: Rápida",
+
+	"lavaboomerang_name": "Búmeran lávico",
+	"lavaboomerang_description": "Daño: 5\nProbabilidad de crítico: 30 %\nVelocidad: Rápida\nProbabilidad de hacer explotar a los enemigos",
+
+	"magichat_name": "Sombrero mágico",
+	"magichat_description": "Vida: 10\nRegeneración de maná un 40 % más rápida",
+
+	"partyhat_name": "Bonete",
+	"partyhat_description": "Vida: 20\nDaño: 10 %\nProbabilidad de crítico: 20 %",
+
+	"hiphat_name": "Gorra cani",
+	"hiphat_description": "Velocidad: 1\nVida: 10\nDaño: 20 %\nProbabilidad de crítico: 30 %",
+
+	"flowerhat_name": "Peluca y gafas",
+	"flowerhat_description": "Velocidad: 3\nProbabilidad de crítico: 30 %\nDaño: 10 %",
+
+	"garland_name": "Guirnalda",
+	"garland_description": "Velocidad: 2\nProbabilidad de crítico: 10 %\nManá: 20\nAumenta la regeneración de maná en 1",
+
+	"santabeanie_name": "Gorro navideño",
+	"santabeanie_description": "Velocidad: 2\nVida: 10\nDaño: 40 %\nProbabilidad de crítico: 15%",
+
+	"bluebeanie_name": "Gorro azul",
+	"bluebeanie_description": "Daño: 20 %\nProbabilidad de crítico: 20 %\nVelocidad de ataque: 50 %\nTe protege en el Glaciar",
+
+	"pinkscarf_name": "Bufanda rosa",
+	"pinkscarf_description": "Vida: 30\nProbabilidad de crítico: 20 %\nTe protege en el Glaciar",
+
+	"cyanscarf_name": "Bufanda cian",
+	"cyanscarf_description": "Velocidad: 5\nProbabilidad de crítico: 50 %\nTe protege en el Glaciar",
+
+	"bluescarf_name": "Bufanda azul",
+	"bluescarf_description": "Maná: 30\nProbabilidad de crítico: 20 %\nRegeneración de maná un 33 % más rápida\nTe protege en el Glaciar",
+
+	"yellowscarf_name": "Bufanda amarilla",
+	"yellowscarf_description": "Daño: 60 %\nProbabilidad de crítico: 20 %\nTe protege en el Glaciar",
+
+	"mummiemask_name": "Máscara momificada",
+	"mummiemask_description": "Vida: 20\nDaño: 40 %\nProbabilidad de crítico: 20 %\nTriplica tu tiempo de invencibilidad",
+
+	"anubismask_name": "Máscara de Anubis",
+	"anubismask_description": "Velocidad: 2\nDaño: 10 %\nProbabilidad de crítico: 40 %\nVelocidad de ataque: 60 %",
+
+	"pyramidmask_name": "Máscara piramidal",
+	"pyramidmask_description": "Velocidad: 1\nDaño: 30 %\nProbabilidad de crítico: 25 %\nPulsa el botón de 'interactuar' para correr mientras te mueves",
+
+	"pinkgem_name": "Gema rosa",
+	"pinkgem_description": "Vida: 35\nDaño: 20 %\nRegenera ligeramente la vida con el tiempo",
+
+	"bluegem_name": "Gema azul",
+	"bluegem_description": "Maná: 40\nDaño: 40 %\nAumenta la regeneración de maná en 3\nVelocidad de ataque: 30 %",
+
+	"cyangem_name": "Gema cian",
+	"cyangem_description": "Velocidad: 6\nDaño: 20 %\nProbabilidad de crítico: 60 %",
+
+	"yellowgem_name": "Gema amarilla",
+	"yellowgem_description": "Daño: 80 %\nProbabilidad de crítico: 20 %",
+
+	"moneyhat_name": "Chistera",
+	"moneyhat_description": "Vida: 20\nDaño: 30 %\nLas monedas valen el doble",
+
+	"bombmask_name": "Máscara bomba",
+	"bombmask_description": "Velocidad: 2\nDaño: 60 %\nProvoca explosiones al recibir daño",
+
+	"gemmask_name": "Máscara cristalina",
+	"gemmask_description": "Daño: 50 %\nProduce varios efectos cada vez que se mata a un enemigo",
+
+	"pinkminerhat_name": "Gorro minero rosa",
+	"pinkminerhat_description": "Vida: 40\nDaño: 40 %\nRegenera moderadamente la vida con el tiempo\nAumenta la iluminación en la oscuridad",
+
+	"blueminerhat_name": "Gorro minero azul",
+	"blueminerhat_description": "Maná: 60\nDaño: 40 %\nAumenta la regeneración de maná y la velocidad de regeneración de maná\nAumenta la iluminación en la oscuridad",
+
+	"cyanminerhat_name": "Gorro minero cian",
+	"cyanminerhat_description": "Velocidad: 7\nDaño: 10 %\nProbabilidad de crítico: 70 %\nVelocidad de ataque: 50 %\nAumenta la iluminación en la oscuridad",
+
+	"yellowminerhat_name": "Gorro minero amarillo",
+	"yellowminerhat_description": "Daño: 90 %\nAumenta la iluminación en la oscuridad",
+
+	"lavapinkhat_name": "Obsidiana rosa",
+	"lavapinkhat_description": "Vida: 60\nDaño: 60 %\nProbabilidad de crítico: 30 %\nRegenera considerablemente la vida con el tiempo\nOtorga inmunidad al magma",
+
+	"lavabluehat_name": "Obsidiana azul",
+	"lavabluehat_description": "Maná: 90\nDaño: 60 %\nProbabilidad de crítico: 30 %\nAumenta la regeneración de maná y la velocidad de regeneración de maná\nOtorga inmunidad al magma",
+
+	"lavacyanhat_name": "Obsidiana cian",
+	"lavacyanhat_description": "Velocidad: 10\nDaño: 30 %\nProbabilidad de crítico: 100 %\nVelocidad de ataque: 75 %\nOtorga inmunidad al magma",
+
+	"lavayellowhat_name": "Obsidiana amarilla",
+	"lavayellowhat_description": "Daño: 200 %\nProbabilidad de crítico: 20 %\nOtorga inmunidad al magma",
+
+	"halohat_name": "Aureola",
+	"halohat_description": "Daño: 80 %\nProbabilidad de crítico: 20 %\nManá: 40\nTe da una segunda vida\nOtorga inmunidad al magma",
+
+	"demonhornhat_name": "Cuerno demoníaco",
+	"demonhornhat_description": "Daño: 80 %\nProbabilidad de crítico: 20 %\nManá: 40\nRegenera vida cada vez que matas a un enemigo\nOtorga inmunidad al magma",
+
+	"healthincrease_name": "Aumento de vida",
+	"healthincrease_description": "*Acumulable*\nAumenta permanentemente tu vida en 5",
+
+	"manaincrease_name": "Aumento de maná",
+	"manaincrease_description": "*Acumulable*\nAumenta permanentemente tu maná en 5",
+
+	"speedincrease_name": "Aumento de velocidad",
+	"speedincrease_description": "*Acumulable*\nAumenta permanentemente tu velocidad en 1",
+
+	"damageincrease_name": "Aumento de daño",
+	"damageincrease_description": "*Acumulable*\nAumenta permanentemente tu daño un 10 %",
+
+	"crystallifeincrease_name": "Aumento de vida del cristal",
+	"crystallifeincrease_description": "*Acumulable*\nAumenta permanentemente la vida del cristal en 20",
+
+	//potions
+	"current_life": "Vida total actual: ",
+	"current_mana": "Maná total actual: ",
+	"current_speed": "Velocidad total actual: ",
+	"current_damage": "Bonificación de daño total actual: ",
+	"current_crystallife": "Vida actual del cristal: "
+}
