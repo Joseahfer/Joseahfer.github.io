@@ -47,6 +47,8 @@ ul.icons li a:hover{border-color:#000}
 ul.icons li a:before{font-size:1.5rem}
 }
 #main{padding:3em;background:#fff;border-radius:4px;max-width:100%;opacity:.95;position:relative;text-align:center;width:27em}
+#main .blog {position:absolute;right:0;top:0;z-index:1;}
+#main .blog img {max-width: 100px}
 #main .avatar{position:relative}
 #main .avatar img{display:block;margin:0 auto;border-radius:100%;width:60%}
 @media screen and (max-width: 480px) {
