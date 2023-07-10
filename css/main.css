@@ -41,7 +41,7 @@ ul.icons:nth-child(2){margin:-1.5em;}
 ul.icons li{display:inline-block;padding:.675em .5em}
 ul.icons li a{display:block;width:3.75em;height:3.75em;border-radius:100%;border:solid 1px #c8cccf;line-height:3.75em}
 ul.icons li a > i{font-size:1.9em}
-i.logomal{background-image:url(../images/anilist.png);background-size:100%;background-repeat:no-repeat;padding:27%;background-position:center;}
+img.logomal{height:2em;border-radius:100%;position:relative;top:5px;margin-top: 15%;}
 ul.icons li a:hover{border-color:#000}
 @media screen and (max-width: 480px) {
 ul.icons li a:before{font-size:1.5rem}
